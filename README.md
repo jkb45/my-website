@@ -4,6 +4,4 @@ The website was so easy to create.
 
 
 
-Now editing on update-README file
-
-Updating locally.
+Updates made on master on GitHub before rebase.
